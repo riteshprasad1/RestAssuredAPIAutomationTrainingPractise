@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6145" started-at="2020-07-19T19:19:32 IST" finished-at="2020-07-19T19:19:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6145" started-at="2020-07-19T19:19:32 IST" finished-at="2020-07-19T19:19:38 IST">
+      <class name="test.ParametersTest">
+        <test-method status="PASS" signature="getListOfUsers(int, int)[pri:0, instance:test.ParametersTest@48503868]" name="getListOfUsers" duration-ms="2304" started-at="2020-07-19T19:19:32 IST" data-provider="Data" finished-at="2020-07-19T19:19:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfUsers -->
+        <test-method status="PASS" signature="getListOfUsers(int, int)[pri:0, instance:test.ParametersTest@48503868]" name="getListOfUsers" duration-ms="739" started-at="2020-07-19T19:19:34 IST" data-provider="Data" finished-at="2020-07-19T19:19:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfUsers -->
+        <test-method status="PASS" signature="getListOfUsers(int, int)[pri:0, instance:test.ParametersTest@48503868]" name="getListOfUsers" duration-ms="757" started-at="2020-07-19T19:19:35 IST" data-provider="Data" finished-at="2020-07-19T19:19:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfUsers -->
+        <test-method status="PASS" signature="getSingleUser(int, int)[pri:0, instance:test.ParametersTest@48503868]" name="getSingleUser" duration-ms="752" started-at="2020-07-19T19:19:35 IST" data-provider="Data" finished-at="2020-07-19T19:19:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleUser -->
+        <test-method status="PASS" signature="getSingleUser(int, int)[pri:0, instance:test.ParametersTest@48503868]" name="getSingleUser" duration-ms="741" started-at="2020-07-19T19:19:36 IST" data-provider="Data" finished-at="2020-07-19T19:19:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleUser -->
+        <test-method status="PASS" signature="getSingleUser(int, int)[pri:0, instance:test.ParametersTest@48503868]" name="getSingleUser" duration-ms="803" started-at="2020-07-19T19:19:37 IST" data-provider="Data" finished-at="2020-07-19T19:19:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleUser -->
+      </class> <!-- test.ParametersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
